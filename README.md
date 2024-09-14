@@ -1,1 +1,2 @@
-# Guess-the-number-game
+A guess the number game.
+i created this game using python.
